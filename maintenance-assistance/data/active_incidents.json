@@ -1,0 +1,22 @@
+[
+  {
+    "incident_id": "INC-2026-014",
+    "service_id": "SRV-NET",
+    "titre": "Coupure réseau intermittente - bâtiment A",
+    "categorie": "reseau_et_connectivite",
+    "priorite": "haute",
+    "ouvert_depuis": "2026-08-13T07:30:00",
+    "statut": "en_cours",
+    "equipe": "infrastructure"
+  },
+  {
+    "incident_id": "INC-2026-015",
+    "service_id": "SRV-ERP",
+    "titre": "Lenteurs sur le module facturation de l'ERP",
+    "categorie": "logiciels_et_applications",
+    "priorite": "moyenne",
+    "ouvert_depuis": "2026-08-12T15:00:00",
+    "statut": "en_cours",
+    "equipe": "applications"
+  }
+]

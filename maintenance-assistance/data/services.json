@@ -1,0 +1,38 @@
+[
+  {
+    "service_id": "SRV-AUTH",
+    "nom": "Authentification / Active Directory",
+    "equipe_responsable": "comptes_et_acces",
+    "statut": "operationnel"
+  },
+  {
+    "service_id": "SRV-VPN",
+    "nom": "VPN d'entreprise",
+    "equipe_responsable": "infrastructure",
+    "statut": "operationnel"
+  },
+  {
+    "service_id": "SRV-MAIL",
+    "nom": "Messagerie (Exchange)",
+    "equipe_responsable": "infrastructure",
+    "statut": "operationnel"
+  },
+  {
+    "service_id": "SRV-ERP",
+    "nom": "ERP Comptabilité/Ventes",
+    "equipe_responsable": "applications",
+    "statut": "degrade"
+  },
+  {
+    "service_id": "SRV-PRINT",
+    "nom": "Service d'impression réseau",
+    "equipe_responsable": "support_materiel",
+    "statut": "operationnel"
+  },
+  {
+    "service_id": "SRV-NET",
+    "nom": "Réseau local (LAN/WiFi)",
+    "equipe_responsable": "infrastructure",
+    "statut": "incident_en_cours"
+  }
+]
