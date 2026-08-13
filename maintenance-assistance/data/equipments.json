@@ -1,0 +1,65 @@
+[
+  {
+    "equipement_id": "PC-0451",
+    "type": "poste fixe",
+    "modele": "Dell OptiPlex 7010",
+    "utilisateur_id": "U001",
+    "os": "Windows 11",
+    "etat": "operationnel",
+    "derniere_maintenance": "2026-05-14"
+  },
+  {
+    "equipement_id": "PC-0198",
+    "type": "poste fixe",
+    "modele": "HP EliteDesk 800",
+    "utilisateur_id": "U002",
+    "os": "Windows 10",
+    "etat": "operationnel",
+    "derniere_maintenance": "2026-03-02"
+  },
+  {
+    "equipement_id": "LAP-0022",
+    "type": "ordinateur portable",
+    "modele": "Lenovo ThinkPad T14",
+    "utilisateur_id": "U003",
+    "os": "Windows 11",
+    "etat": "panne_signalee",
+    "derniere_maintenance": "2026-06-20"
+  },
+  {
+    "equipement_id": "PC-0777",
+    "type": "poste fixe",
+    "modele": "Dell OptiPlex 7010",
+    "utilisateur_id": "U004",
+    "os": "Windows 11",
+    "etat": "operationnel",
+    "derniere_maintenance": "2026-07-01"
+  },
+  {
+    "equipement_id": "PC-0333",
+    "type": "poste fixe",
+    "modele": "HP EliteDesk 800",
+    "utilisateur_id": "U005",
+    "os": "Windows 10",
+    "etat": "operationnel",
+    "derniere_maintenance": "2026-02-18"
+  },
+  {
+    "equipement_id": "LAP-0087",
+    "type": "ordinateur portable",
+    "modele": "Lenovo ThinkPad T14",
+    "utilisateur_id": "U006",
+    "os": "Windows 11",
+    "etat": "operationnel",
+    "derniere_maintenance": "2026-06-30"
+  },
+  {
+    "equipement_id": "IMP-0012",
+    "type": "imprimante reseau",
+    "modele": "HP LaserJet M404",
+    "utilisateur_id": null,
+    "os": null,
+    "etat": "hors_service",
+    "derniere_maintenance": "2026-04-10"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "user_id": "U001",
+    "nom": "Rakoto Andry",
+    "email": "andry.rakoto@entreprise.mg",
+    "service": "Comptabilité",
+    "poste_id": "PC-0451",
+    "statut_compte": "actif",
+    "derniere_connexion": "2026-08-12T17:20:00"
+  },
+  {
+    "user_id": "U002",
+    "nom": "Rasoa Hery",
+    "email": "hery.rasoa@entreprise.mg",
+    "service": "Ressources Humaines",
+    "poste_id": "PC-0198",
+    "statut_compte": "verrouille",
+    "derniere_connexion": "2026-08-10T09:05:00"
+  },
+  {
+    "user_id": "U003",
+    "nom": "Randria Tiana",
+    "email": "tiana.randria@entreprise.mg",
+    "service": "Ventes",
+    "poste_id": "LAP-0022",
+    "statut_compte": "actif",
+    "derniere_connexion": "2026-08-13T08:40:00"
+  },
+  {
+    "user_id": "U004",
+    "nom": "Andria Fanja",
+    "email": "fanja.andria@entreprise.mg",
+    "service": "Direction Financière",
+    "poste_id": "PC-0777",
+    "statut_compte": "actif",
+    "derniere_connexion": "2026-08-13T07:55:00"
+  },
+  {
+    "user_id": "U005",
+    "nom": "Rabe Solo",
+    "email": "solo.rabe@entreprise.mg",
+    "service": "Support Client",
+    "poste_id": "PC-0333",
+    "statut_compte": "suspendu",
+    "derniere_connexion": "2026-08-05T14:10:00"
+  },
+  {
+    "user_id": "U006",
+    "nom": "Ravao Mialy",
+    "email": "mialy.ravao@entreprise.mg",
+    "service": "Marketing",
+    "poste_id": "LAP-0087",
+    "statut_compte": "actif",
+    "derniere_connexion": "2026-08-13T08:12:00"
+  }
+]
