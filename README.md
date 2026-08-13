@@ -22,8 +22,13 @@ pip install -r requirements.txt
 streamlit run ui/streamlit_app.py
 ```
 
-L'interface s'ouvre sur `http://localhost:8501`. Le panneau **Nouveau ticket** propose les
-4 boutons de démonstration correspondant aux 4 scénarios obligatoires du sujet.
+L'interface s'ouvre sur `http://localhost:8501`. Le panneau **Nouveau ticket** affiche une
+**file d'attente de tickets déjà reçus** (`data/tickets_queue.json`, 8 tickets), dont 4
+correspondent explicitement aux scénarios obligatoires du sujet (badges « Scénario 1 » à
+« Scénario 4 ») : il suffit de cliquer sur *Traiter ce ticket* pour lancer le pipeline complet
+sur un cas prêt à l'emploi, sans ressaisie manuelle. La file peut être réinitialisée à tout
+moment (bouton *Réinitialiser la file*) pour rejouer la démonstration. La saisie libre d'un
+nouveau ticket reste disponible en dessous.
 
 Pour lancer l'évaluation automatisée :
 
@@ -77,6 +82,7 @@ maintenance-assistance/
 ├── data/                  # données de référence (fictives)
 │   ├── users.json, equipments.json, services.json, active_incidents.json
 │   ├── tickets_history.json   # historique étiqueté (classification par similarité)
+│   ├── tickets_queue.json     # file d'attente de tickets déjà reçus, à traiter en démo
 │   ├── tools_spec.json        # spécification des outils
 │   ├── kb/*.md                 # base de connaissances (procédures)
 │   └── eval/                    # jeux de test étiquetés
